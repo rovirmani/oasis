@@ -1,0 +1,1389 @@
+.individual-brand-page-div-wrapper {
+  width: 100%;
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: center;
+  display: flex;
+}
+
+.individual-brand-page-div {
+  height: 3351px;
+  width: 1728px;
+  background-color: #fff;
+  border: 1px;
+  position: relative;
+  overflow: hidden;
+}
+
+.individual-brand-page-navbar {
+  height: 59px;
+  width: 1728px;
+  background-color: #00bdfe;
+  position: absolute;
+  top: 117px;
+  left: 0;
+  box-shadow: 0 4px 4px #00000040;
+}
+
+.individual-brand-page-deals {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  left: 471px;
+}
+
+.individual-brand-page-experience-the-OASIS {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  left: 1375px;
+}
+
+.individual-brand-page-text-wrapper {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  left: 598px;
+}
+
+.individual-brand-page-all {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  width: 45px;
+  font-family: Avenir Next-Bold, Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  left: 66px;
+}
+
+.individual-brand-page-creators {
+  color: #fff;
+  cursor: pointer;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  left: 160px;
+}
+
+.individual-brand-page-brands {
+  color: #fff;
+  cursor: pointer;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-Medium, Helvetica;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  left: 327px;
+}
+
+.individual-brand-page-icon-menu {
+  height: 22px;
+  width: 28px;
+  position: absolute;
+  top: 18px;
+  left: 27px;
+}
+
+.individual-brand-page-div-2 {
+  height: 112px;
+  width: 1735px;
+  position: absolute;
+  top: 0;
+  left: -7px;
+}
+
+.individual-brand-page-top-bar {
+  height: 112px;
+  width: 1728px;
+  position: absolute;
+  top: 0;
+  left: 7px;
+}
+
+.individual-brand-page-returns {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  width: 118px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 43px;
+  left: 1382px;
+}
+
+.individual-brand-page-oasis {
+  color: #0000;
+  cursor: pointer;
+  letter-spacing: 0;
+  text-align: center;
+  width: 303px;
+  font-family: a Atmospheric-Regular, Helvetica;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 37px;
+  left: 0;
+}
+
+.individual-brand-page-span {
+  color: gold;
+}
+
+.individual-brand-page-text-wrapper-2 {
+  color: #fff;
+}
+
+.individual-brand-page-search-bar {
+  height: 75px;
+  width: 811px;
+  background-color: #fff;
+  border: 1px solid;
+  border-radius: 7px;
+  position: absolute;
+  top: 26px;
+  left: 347px;
+  box-shadow: 0 4px 4px #00000040;
+}
+
+.individual-brand-page-search-oasis {
+  color: #909090;
+  letter-spacing: 0;
+  text-align: center;
+  width: 212px;
+  font-family: Verdana-Regular, Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 47px;
+  left: 370px;
+}
+
+.individual-brand-page-language {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  width: 158px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 43px;
+  left: 1191px;
+}
+
+.individual-brand-page-rectangle {
+  height: 75px;
+  width: 73px;
+  background-color: gold;
+  border-radius: 7px;
+  position: absolute;
+  top: 26px;
+  left: 1085px;
+}
+
+.individual-brand-page-icon-cart {
+  height: 35px;
+  width: 40px;
+  position: absolute;
+  top: 47px;
+  left: 1628px;
+}
+
+.individual-brand-page-icon-profile-circled {
+  cursor: pointer;
+  height: 35px;
+  width: 35px;
+  position: absolute;
+  top: 47px;
+  left: 1536px;
+}
+
+.individual-brand-page-vector {
+  height: 9px;
+  width: 9px;
+  position: absolute;
+  top: 74px;
+  left: 1130px;
+}
+
+.individual-brand-page-img {
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  top: 48px;
+  left: 1104px;
+}
+
+.individual-brand-page-icon-heart {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 1928220px;
+  left: 1470px;
+}
+
+.individual-brand-page-div-3 {
+  height: 400px;
+  width: 1728px;
+  background-color: #00bdfe;
+  position: absolute;
+  top: 2951px;
+  left: 0;
+}
+
+.individual-brand-page-h-1 {
+  color: #0000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 474px;
+  font-family: a Atmospheric-Regular, Helvetica;
+  font-size: 108px;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 138px;
+  left: 579px;
+}
+
+.individual-brand-page-about-us {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 58px;
+  left: 40px;
+}
+
+.individual-brand-page-careers {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 218px;
+  left: 1552px;
+}
+
+.individual-brand-page-activism {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 298px;
+  left: 1539px;
+}
+
+.individual-brand-page-help {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 138px;
+  left: 40px;
+}
+
+.individual-brand-page-FAQ {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 218px;
+  left: 40px;
+}
+
+.individual-brand-page-privacy-security {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 298px;
+  left: 40px;
+}
+
+.individual-brand-page-feedback {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 58px;
+  left: 1517px;
+}
+
+.individual-brand-page-become-a-seller {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 138px;
+  left: 1411px;
+}
+
+.individual-brand-page-sort-by {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 614px;
+  left: 1459px;
+}
+
+.individual-brand-page-filters {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 614px;
+  left: 110px;
+}
+
+.individual-brand-page-page-x-of-y {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2841px;
+  left: 747px;
+}
+
+.individual-brand-page-icon-nav-arrow-down {
+  height: 8px;
+  width: 15px;
+  position: absolute;
+  top: 627px;
+  left: 1546px;
+}
+
+.individual-brand-page-icon-nav-arrow-down-2 {
+  height: 8px;
+  width: 15px;
+  position: absolute;
+  top: 627px;
+  left: 185px;
+}
+
+.individual-brand-page-icon-nav-arrow-down-3 {
+  height: 8px;
+  width: 15px;
+  position: absolute;
+  top: 2856px;
+  left: 876px;
+}
+
+.individual-brand-page-icon-nav-arrow-right {
+  height: 20px;
+  width: 10px;
+  position: absolute;
+  top: 2849px;
+  left: 927px;
+}
+
+.individual-brand-page-icon-nav-arrow-left {
+  height: 20px;
+  width: 10px;
+  position: absolute;
+  top: 2849px;
+  left: 702px;
+}
+
+.individual-brand-page-overlap {
+  height: 380px;
+  width: 1728px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 176px;
+  left: 0;
+}
+
+.individual-brand-page-custom-brand-header {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 148px;
+  left: 552px;
+}
+
+.individual-brand-page-rectangle-34 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 781px;
+  left: 110px;
+}
+
+.individual-brand-page-rectangle-35 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 781px;
+  left: 360px;
+}
+
+.individual-brand-page-rectangle-36 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 781px;
+  left: 610px;
+}
+
+.individual-brand-page-rectangle-37 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 781px;
+  left: 860px;
+}
+
+.individual-brand-page-rectangle-38 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 781px;
+  left: 1360px;
+}
+
+.individual-brand-page-rectangle-39 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 781px;
+  left: 1110px;
+}
+
+.individual-brand-page-item-name {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1065px;
+  left: 129px;
+}
+
+.individual-brand-page-item-name-2 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1065px;
+  left: 379px;
+}
+
+.individual-brand-page-item-name-3 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1065px;
+  left: 629px;
+}
+
+.individual-brand-page-item-name-4 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1065px;
+  left: 879px;
+}
+
+.individual-brand-page-item-name-5 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1065px;
+  left: 1129px;
+}
+
+.individual-brand-page-item-name-6 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1065px;
+  left: 1379px;
+}
+
+.individual-brand-page-icon-heart-2 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 1068px;
+  left: 264px;
+}
+
+.individual-brand-page-icon-heart-3 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 1068px;
+  left: 514px;
+}
+
+.individual-brand-page-icon-heart-4 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 1068px;
+  left: 764px;
+}
+
+.individual-brand-page-icon-heart-5 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 1068px;
+  left: 1014px;
+}
+
+.individual-brand-page-icon-heart-6 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 1068px;
+  left: 1264px;
+}
+
+.individual-brand-page-icon-heart-7 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 1068px;
+  left: 1514px;
+}
+
+.individual-brand-page-rectangle-40 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1182px;
+  left: 110px;
+}
+
+.individual-brand-page-rectangle-41 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1182px;
+  left: 360px;
+}
+
+.individual-brand-page-rectangle-42 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1182px;
+  left: 610px;
+}
+
+.individual-brand-page-rectangle-43 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1182px;
+  left: 860px;
+}
+
+.individual-brand-page-rectangle-44 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1182px;
+  left: 1360px;
+}
+
+.individual-brand-page-rectangle-45 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1182px;
+  left: 1110px;
+}
+
+.individual-brand-page-item-name-7 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1466px;
+  left: 129px;
+}
+
+.individual-brand-page-item-name-8 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1466px;
+  left: 379px;
+}
+
+.individual-brand-page-item-name-9 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1466px;
+  left: 629px;
+}
+
+.individual-brand-page-item-name-10 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1466px;
+  left: 879px;
+}
+
+.individual-brand-page-item-name-11 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1466px;
+  left: 1129px;
+}
+
+.individual-brand-page-item-name-12 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1466px;
+  left: 1379px;
+}
+
+.individual-brand-page-icon-heart-8 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 1469px;
+  left: 264px;
+}
+
+.individual-brand-page-icon-heart-9 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 1469px;
+  left: 514px;
+}
+
+.individual-brand-page-icon-heart-10 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 1469px;
+  left: 764px;
+}
+
+.individual-brand-page-icon-heart-11 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 1469px;
+  left: 1014px;
+}
+
+.individual-brand-page-icon-heart-12 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 1469px;
+  left: 1264px;
+}
+
+.individual-brand-page-icon-heart-13 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 1469px;
+  left: 1514px;
+}
+
+.individual-brand-page-rectangle-46 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1583px;
+  left: 110px;
+}
+
+.individual-brand-page-rectangle-47 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1583px;
+  left: 360px;
+}
+
+.individual-brand-page-rectangle-48 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1583px;
+  left: 610px;
+}
+
+.individual-brand-page-rectangle-49 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1583px;
+  left: 860px;
+}
+
+.individual-brand-page-rectangle-50 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1583px;
+  left: 1360px;
+}
+
+.individual-brand-page-rectangle-51 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1583px;
+  left: 1110px;
+}
+
+.individual-brand-page-item-name-13 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1867px;
+  left: 129px;
+}
+
+.individual-brand-page-item-name-14 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1867px;
+  left: 379px;
+}
+
+.individual-brand-page-item-name-15 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1867px;
+  left: 629px;
+}
+
+.individual-brand-page-item-name-16 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1867px;
+  left: 879px;
+}
+
+.individual-brand-page-item-name-17 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1867px;
+  left: 1129px;
+}
+
+.individual-brand-page-item-name-18 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1867px;
+  left: 1379px;
+}
+
+.individual-brand-page-icon-heart-14 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 1870px;
+  left: 264px;
+}
+
+.individual-brand-page-icon-heart-15 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 1870px;
+  left: 514px;
+}
+
+.individual-brand-page-icon-heart-16 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 1870px;
+  left: 764px;
+}
+
+.individual-brand-page-icon-heart-17 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 1870px;
+  left: 1014px;
+}
+
+.individual-brand-page-icon-heart-18 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 1870px;
+  left: 1264px;
+}
+
+.individual-brand-page-icon-heart-19 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 1870px;
+  left: 1514px;
+}
+
+.individual-brand-page-rectangle-52 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1981px;
+  left: 110px;
+}
+
+.individual-brand-page-rectangle-53 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1981px;
+  left: 360px;
+}
+
+.individual-brand-page-rectangle-54 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1981px;
+  left: 610px;
+}
+
+.individual-brand-page-rectangle-55 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1981px;
+  left: 860px;
+}
+
+.individual-brand-page-rectangle-56 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1981px;
+  left: 1360px;
+}
+
+.individual-brand-page-rectangle-57 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1981px;
+  left: 1110px;
+}
+
+.individual-brand-page-item-name-19 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2265px;
+  left: 129px;
+}
+
+.individual-brand-page-item-name-20 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2265px;
+  left: 379px;
+}
+
+.individual-brand-page-item-name-21 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2265px;
+  left: 629px;
+}
+
+.individual-brand-page-item-name-22 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2265px;
+  left: 879px;
+}
+
+.individual-brand-page-item-name-23 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2265px;
+  left: 1129px;
+}
+
+.individual-brand-page-item-name-24 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2265px;
+  left: 1379px;
+}
+
+.individual-brand-page-icon-heart-20 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 2268px;
+  left: 264px;
+}
+
+.individual-brand-page-icon-heart-21 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 2268px;
+  left: 514px;
+}
+
+.individual-brand-page-icon-heart-22 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 2268px;
+  left: 764px;
+}
+
+.individual-brand-page-icon-heart-23 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 2268px;
+  left: 1014px;
+}
+
+.individual-brand-page-icon-heart-24 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 2268px;
+  left: 1264px;
+}
+
+.individual-brand-page-icon-heart-25 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 2268px;
+  left: 1514px;
+}
+
+.individual-brand-page-rectangle-58 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 2387px;
+  left: 110px;
+}
+
+.individual-brand-page-rectangle-59 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 2387px;
+  left: 360px;
+}
+
+.individual-brand-page-rectangle-60 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 2387px;
+  left: 610px;
+}
+
+.individual-brand-page-rectangle-61 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 2387px;
+  left: 860px;
+}
+
+.individual-brand-page-rectangle-62 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 2387px;
+  left: 1360px;
+}
+
+.individual-brand-page-rectangle-63 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 2387px;
+  left: 1110px;
+}
+
+.individual-brand-page-item-name-25 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2671px;
+  left: 129px;
+}
+
+.individual-brand-page-item-name-26 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2671px;
+  left: 379px;
+}
+
+.individual-brand-page-item-name-27 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2671px;
+  left: 629px;
+}
+
+.individual-brand-page-item-name-28 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2671px;
+  left: 879px;
+}
+
+.individual-brand-page-item-name-29 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2671px;
+  left: 1129px;
+}
+
+.individual-brand-page-item-name-30 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2671px;
+  left: 1379px;
+}
+
+.individual-brand-page-icon-heart-26 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 2674px;
+  left: 264px;
+}
+
+.individual-brand-page-icon-heart-27 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 2674px;
+  left: 514px;
+}
+
+.individual-brand-page-icon-heart-28 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 2674px;
+  left: 764px;
+}
+
+.individual-brand-page-icon-heart-29 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 2674px;
+  left: 1014px;
+}
+
+.individual-brand-page-icon-heart-30 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 2674px;
+  left: 1264px;
+}
+
+.individual-brand-page-icon-heart-31 {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 2674px;
+  left: 1514px;
+}
+
+/*# sourceMappingURL=index.df07145b.css.map */

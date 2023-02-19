@@ -1,0 +1,603 @@
+.my-account-page-div-wrapper {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.my-account-page-my-account-page {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 1400px;
+  overflow: hidden;
+  position: relative;
+  width: 1728px;
+}
+
+.my-account-page-overlap {
+  height: 174px;
+  left: -7px;
+  position: absolute;
+  top: 0;
+  width: 1735px;
+}
+
+.my-account-page-bottom-bar {
+  background-color: #00bdfe;
+  border: 0px none;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 59px;
+  left: 7px;
+  position: absolute;
+  top: 115px;
+  width: 1728px;
+}
+
+.my-account-page-icon-menu {
+  height: 27px;
+  left: 32px;
+  position: absolute;
+  top: 132px;
+  width: 33px;
+}
+
+.my-account-page-deals {
+  color: #ffffff;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 478px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 123px;
+}
+
+.my-account-page-experience-the-OASIS {
+  color: #ffffff;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 1382px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 123px;
+}
+
+.my-account-page-text-wrapper {
+  color: #ffffff;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 605px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 123px;
+}
+
+.my-account-page-top-bar {
+  height: 119px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 1728px;
+}
+
+.my-account-page-icon-cart {
+  height: 39px;
+  left: 1626px;
+  position: absolute;
+  top: 45px;
+  width: 44px;
+}
+
+.my-account-page-icon-profile-circled {
+  height: 38px;
+  left: 1534px;
+  position: absolute;
+  top: 45px;
+  width: 38px;
+}
+
+.my-account-page-returns {
+  color: #ffffff;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 1382px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 41px;
+  width: 118px;
+}
+
+.my-account-page-oasis {
+  color: transparent;
+  cursor: pointer;
+  font-family: "a Atmospheric-Regular", Helvetica;
+  font-size: 60px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 35px;
+  width: 303px;
+}
+
+.my-account-page-span {
+  color: #ffd700;
+}
+
+.my-account-page-text-wrapper-2 {
+  color: #ffffff;
+}
+
+.my-account-page-search-bar {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-radius: 7px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 75px;
+  left: 347px;
+  position: absolute;
+  top: 24px;
+  width: 811px;
+}
+
+.my-account-page-search-oasis {
+  color: #909090;
+  font-family: "Verdana-Regular", Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  left: 370px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 45px;
+  width: 212px;
+}
+
+.my-account-page-all {
+  color: #ffffff;
+  font-family: "Avenir Next-Bold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 73px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 123px;
+  width: 45px;
+}
+
+.my-account-page-language {
+  color: #ffffff;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 1191px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 41px;
+  width: 158px;
+}
+
+.my-account-page-creators {
+  color: #ffffff;
+  cursor: pointer;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 167px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 123px;
+}
+
+.my-account-page-brands {
+  color: #ffffff;
+  cursor: pointer;
+  font-family: "Avenir Next-Medium", Helvetica;
+  font-size: 30px;
+  font-weight: 500;
+  left: 334px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 123px;
+}
+
+.my-account-page-rectangle {
+  background-color: #ffd700;
+  border-radius: 7px;
+  height: 75px;
+  left: 1085px;
+  position: absolute;
+  top: 24px;
+  width: 73px;
+}
+
+.my-account-page-vector {
+  height: 13px;
+  left: 1128px;
+  position: absolute;
+  top: 72px;
+  width: 13px;
+}
+
+.my-account-page-img {
+  height: 34px;
+  left: 1102px;
+  position: absolute;
+  top: 46px;
+  width: 34px;
+}
+
+.my-account-page-overlap-group10 {
+  background-color: #ffffff;
+  border: 3px solid;
+  border-color: #000000;
+  border-radius: 7px;
+  height: 139px;
+  left: 708px;
+  position: absolute;
+  top: 288px;
+  width: 315px;
+}
+
+.my-account-page-my-exclusive {
+  color: #000000;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 49px;
+}
+
+.my-account-page-overlap-group7 {
+  background-color: #ffffff;
+  border: 3px solid;
+  border-color: #000000;
+  border-radius: 7px;
+  height: 139px;
+  left: 708px;
+  position: absolute;
+  top: 714px;
+  width: 315px;
+}
+
+.my-account-page-gift-cards {
+  color: #000000;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 80px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 49px;
+}
+
+.my-account-page-overlap-group8 {
+  background-color: #ffffff;
+  border: 3px solid;
+  border-color: #000000;
+  border-radius: 7px;
+  height: 139px;
+  left: 708px;
+  position: absolute;
+  top: 501px;
+  width: 315px;
+}
+
+.my-account-page-shopping-lists {
+  color: #000000;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 47px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 49px;
+}
+
+.my-account-page-overlap-group3 {
+  background-color: #ffffff;
+  border: 3px solid;
+  border-color: #000000;
+  border-radius: 7px;
+  height: 139px;
+  left: 1177px;
+  position: absolute;
+  top: 288px;
+  width: 315px;
+}
+
+.my-account-page-favorite-items {
+  color: #000000;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 51px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 49px;
+}
+
+.my-account-page-overlap-group6 {
+  background-color: #ffffff;
+  border: 3px solid;
+  border-color: #000000;
+  border-radius: 7px;
+  height: 139px;
+  left: 1177px;
+  position: absolute;
+  top: 714px;
+  width: 315px;
+}
+
+.my-account-page-my-creators {
+  color: #000000;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 65px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 49px;
+}
+
+.my-account-page-overlap-group9 {
+  background-color: #ffffff;
+  border: 3px solid;
+  border-color: #000000;
+  border-radius: 7px;
+  height: 139px;
+  left: 1177px;
+  position: absolute;
+  top: 501px;
+  width: 315px;
+}
+
+.my-account-page-my-brands {
+  color: #000000;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 76px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 49px;
+}
+
+.my-account-page-overlap-group1 {
+  background-color: #ffffff;
+  border: 3px solid;
+  border-color: #000000;
+  border-radius: 7px;
+  height: 139px;
+  left: 239px;
+  position: absolute;
+  top: 288px;
+  width: 315px;
+}
+
+.my-account-page-past-orders {
+  color: #000000;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 69px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 49px;
+}
+
+.my-account-page-overlap-group5 {
+  background-color: #ffffff;
+  border: 3px solid;
+  border-color: #000000;
+  border-radius: 7px;
+  height: 139px;
+  left: 239px;
+  position: absolute;
+  top: 714px;
+  width: 315px;
+}
+
+.my-account-page-username-password {
+  color: #000000;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 25px;
+}
+
+.my-account-page-overlap-group4 {
+  background-color: #ffffff;
+  border: 3px solid;
+  border-color: #000000;
+  border-radius: 7px;
+  height: 139px;
+  left: 239px;
+  position: absolute;
+  top: 501px;
+  width: 315px;
+}
+
+.my-account-page-current-orders {
+  color: #000000;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  left: 45px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 49px;
+}
+
+.my-account-page-overlap-group {
+  background-color: #00bdfe;
+  height: 400px;
+  left: 2px;
+  position: absolute;
+  top: 1000px;
+  width: 1728px;
+}
+
+.my-account-page-h-1 {
+  color: transparent;
+  font-family: "a Atmospheric-Regular", Helvetica;
+  font-size: 108px;
+  font-weight: 400;
+  left: 579px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 138px;
+  width: 474px;
+}
+
+.my-account-page-about-us {
+  color: #ffffff;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 58px;
+}
+
+.my-account-page-careers {
+  color: #ffffff;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 1552px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 218px;
+}
+
+.my-account-page-activism {
+  color: #ffffff;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 1539px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 298px;
+}
+
+.my-account-page-help {
+  color: #ffffff;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 138px;
+}
+
+.my-account-page-FAQ {
+  color: #ffffff;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 218px;
+}
+
+.my-account-page-privacy-security {
+  color: #ffffff;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 298px;
+}
+
+.my-account-page-feedback {
+  color: #ffffff;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 1517px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 58px;
+}
+
+.my-account-page-become-a-seller {
+  color: #ffffff;
+  font-family: "Avenir Next-DemiBold", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  left: 1411px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 138px;
+}

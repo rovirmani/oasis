@@ -1,0 +1,1597 @@
+.creator-page-div-wrapper {
+  width: 100%;
+  background-color: #fff;
+  flex-direction: row;
+  justify-content: center;
+  display: flex;
+}
+
+.creator-page-div {
+  height: 3351px;
+  width: 1728px;
+  background-color: #fff;
+  border: 1px;
+  position: relative;
+  overflow: hidden;
+}
+
+.creator-page-navbar {
+  height: 59px;
+  width: 1728px;
+  background-color: #00bdfe;
+  position: absolute;
+  top: 117px;
+  left: 0;
+  box-shadow: 0 4px 4px #00000040;
+}
+
+.creator-page-deals {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  left: 471px;
+}
+
+.creator-page-experience-the-OASIS {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  left: 1375px;
+}
+
+.creator-page-text-wrapper {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  left: 598px;
+}
+
+.creator-page-all {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  width: 45px;
+  font-family: Avenir Next-Bold, Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  left: 66px;
+}
+
+.creator-page-creators {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  left: 160px;
+}
+
+.creator-page-brands {
+  color: #fff;
+  cursor: pointer;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-Medium, Helvetica;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  left: 327px;
+}
+
+.creator-page-icon-menu {
+  height: 22px;
+  width: 28px;
+  position: absolute;
+  top: 18px;
+  left: 27px;
+}
+
+.creator-page-div-2 {
+  height: 112px;
+  width: 1735px;
+  position: absolute;
+  top: 0;
+  left: -7px;
+}
+
+.creator-page-top-bar {
+  height: 112px;
+  width: 1728px;
+  position: absolute;
+  top: 0;
+  left: 7px;
+}
+
+.creator-page-returns {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  width: 118px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 43px;
+  left: 1382px;
+}
+
+.creator-page-oasis {
+  color: #0000;
+  cursor: pointer;
+  letter-spacing: 0;
+  text-align: center;
+  width: 303px;
+  font-family: a Atmospheric-Regular, Helvetica;
+  font-size: 60px;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 37px;
+  left: 0;
+}
+
+.creator-page-span {
+  color: gold;
+}
+
+.creator-page-text-wrapper-2 {
+  color: #fff;
+}
+
+.creator-page-search-bar {
+  height: 75px;
+  width: 811px;
+  background-color: #fff;
+  border: 1px solid;
+  border-radius: 7px;
+  position: absolute;
+  top: 26px;
+  left: 347px;
+  box-shadow: 0 4px 4px #00000040;
+}
+
+.creator-page-search-oasis {
+  color: #909090;
+  letter-spacing: 0;
+  text-align: center;
+  width: 212px;
+  font-family: Verdana-Regular, Helvetica;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 47px;
+  left: 370px;
+}
+
+.creator-page-language {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  width: 158px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 43px;
+  left: 1191px;
+}
+
+.creator-page-rectangle {
+  height: 75px;
+  width: 73px;
+  background-color: gold;
+  border-radius: 7px;
+  position: absolute;
+  top: 26px;
+  left: 1085px;
+}
+
+.creator-page-icon-cart {
+  height: 35px;
+  width: 40px;
+  position: absolute;
+  top: 47px;
+  left: 1628px;
+}
+
+.creator-page-icon-profile-circled {
+  cursor: pointer;
+  height: 35px;
+  width: 35px;
+  position: absolute;
+  top: 47px;
+  left: 1536px;
+}
+
+.creator-page-vector {
+  height: 9px;
+  width: 9px;
+  position: absolute;
+  top: 74px;
+  left: 1130px;
+}
+
+.creator-page-img {
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  top: 48px;
+  left: 1104px;
+}
+
+.creator-page-rectangle-3 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1195px;
+  left: 110px;
+}
+
+.creator-page-rectangle-4 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1195px;
+  left: 360px;
+}
+
+.creator-page-rectangle-5 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1195px;
+  left: 610px;
+}
+
+.creator-page-rectangle-6 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1195px;
+  left: 860px;
+}
+
+.creator-page-rectangle-8 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1195px;
+  left: 1360px;
+}
+
+.creator-page-rectangle-7 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1195px;
+  left: 1110px;
+}
+
+.creator-page-text-wrapper-3 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1479px;
+  left: 129px;
+}
+
+.creator-page-icon-heart {
+  height: 22px;
+  width: 25px;
+  position: absolute;
+  top: 1928220px;
+  left: 1470px;
+}
+
+.creator-page-div-3 {
+  height: 400px;
+  width: 1728px;
+  background-color: #00bdfe;
+  position: absolute;
+  top: 2951px;
+  left: 0;
+}
+
+.creator-page-h-1 {
+  color: #0000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 474px;
+  font-family: a Atmospheric-Regular, Helvetica;
+  font-size: 108px;
+  font-weight: 400;
+  line-height: normal;
+  position: absolute;
+  top: 138px;
+  left: 579px;
+}
+
+.creator-page-about-us {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 58px;
+  left: 40px;
+}
+
+.creator-page-careers {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 218px;
+  left: 1552px;
+}
+
+.creator-page-activism {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 298px;
+  left: 1539px;
+}
+
+.creator-page-help {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 138px;
+  left: 40px;
+}
+
+.creator-page-FAQ {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 218px;
+  left: 40px;
+}
+
+.creator-page-privacy-security {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 298px;
+  left: 40px;
+}
+
+.creator-page-feedback {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 58px;
+  left: 1517px;
+}
+
+.creator-page-become-a-seller {
+  color: #fff;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 138px;
+  left: 1411px;
+}
+
+.creator-page-trusted-creators {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 223px;
+  left: 634px;
+}
+
+.creator-page-sort-by {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 232px;
+  left: 1459px;
+}
+
+.creator-page-filters {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 232px;
+  left: 110px;
+}
+
+.creator-page-page-x-of-y {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2841px;
+  left: 755px;
+}
+
+.creator-page-icon-plus {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 1487px;
+  left: 275px;
+}
+
+.creator-page-text-wrapper-4 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1479px;
+  left: 383px;
+}
+
+.creator-page-icon-plus-2 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 1487px;
+  left: 529px;
+}
+
+.creator-page-text-wrapper-5 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1479px;
+  left: 1145px;
+}
+
+.creator-page-icon-plus-3 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 1487px;
+  left: 1291px;
+}
+
+.creator-page-text-wrapper-6 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1479px;
+  left: 1399px;
+}
+
+.creator-page-icon-plus-4 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 1487px;
+  left: 1545px;
+}
+
+.creator-page-text-wrapper-7 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1479px;
+  left: 637px;
+}
+
+.creator-page-icon-plus-5 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 1487px;
+  left: 783px;
+}
+
+.creator-page-text-wrapper-8 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1479px;
+  left: 891px;
+}
+
+.creator-page-icon-plus-6 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 1487px;
+  left: 1037px;
+}
+
+.creator-page-rectangle-2 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1597px;
+  left: 110px;
+}
+
+.creator-page-rectangle-9 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1597px;
+  left: 360px;
+}
+
+.creator-page-rectangle-10 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1597px;
+  left: 610px;
+}
+
+.creator-page-rectangle-11 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1597px;
+  left: 860px;
+}
+
+.creator-page-rectangle-12 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1597px;
+  left: 1360px;
+}
+
+.creator-page-rectangle-13 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1597px;
+  left: 1110px;
+}
+
+.creator-page-text-wrapper-9 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1881px;
+  left: 129px;
+}
+
+.creator-page-icon-plus-7 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 1889px;
+  left: 275px;
+}
+
+.creator-page-text-wrapper-10 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1881px;
+  left: 383px;
+}
+
+.creator-page-icon-plus-8 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 1889px;
+  left: 529px;
+}
+
+.creator-page-rectangle-21 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1999px;
+  left: 110px;
+}
+
+.creator-page-rectangle-22 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1999px;
+  left: 360px;
+}
+
+.creator-page-rectangle-23 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1999px;
+  left: 610px;
+}
+
+.creator-page-rectangle-24 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1999px;
+  left: 860px;
+}
+
+.creator-page-rectangle-25 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1999px;
+  left: 1360px;
+}
+
+.creator-page-rectangle-26 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 1999px;
+  left: 1110px;
+}
+
+.creator-page-text-wrapper-11 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2283px;
+  left: 129px;
+}
+
+.creator-page-icon-plus-9 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 2291px;
+  left: 275px;
+}
+
+.creator-page-text-wrapper-12 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2283px;
+  left: 383px;
+}
+
+.creator-page-icon-plus-10 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 2291px;
+  left: 529px;
+}
+
+.creator-page-text-wrapper-13 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2283px;
+  left: 1145px;
+}
+
+.creator-page-icon-plus-11 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 2291px;
+  left: 1291px;
+}
+
+.creator-page-text-wrapper-14 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2283px;
+  left: 1399px;
+}
+
+.creator-page-icon-plus-12 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 2291px;
+  left: 1545px;
+}
+
+.creator-page-text-wrapper-15 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2283px;
+  left: 637px;
+}
+
+.creator-page-icon-plus-13 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 2291px;
+  left: 783px;
+}
+
+.creator-page-text-wrapper-16 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2283px;
+  left: 891px;
+}
+
+.creator-page-icon-plus-14 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 2291px;
+  left: 1037px;
+}
+
+.creator-page-rectangle-27 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 2401px;
+  left: 110px;
+}
+
+.creator-page-rectangle-28 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 2401px;
+  left: 360px;
+}
+
+.creator-page-rectangle-29 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 2401px;
+  left: 610px;
+}
+
+.creator-page-rectangle-30 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 2401px;
+  left: 860px;
+}
+
+.creator-page-rectangle-31 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 2401px;
+  left: 1360px;
+}
+
+.creator-page-rectangle-32 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 2401px;
+  left: 1110px;
+}
+
+.creator-page-text-wrapper-17 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2685px;
+  left: 129px;
+}
+
+.creator-page-icon-plus-15 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 2693px;
+  left: 275px;
+}
+
+.creator-page-text-wrapper-18 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2685px;
+  left: 383px;
+}
+
+.creator-page-icon-plus-16 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 2693px;
+  left: 529px;
+}
+
+.creator-page-text-wrapper-19 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2685px;
+  left: 1145px;
+}
+
+.creator-page-icon-plus-17 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 2693px;
+  left: 1291px;
+}
+
+.creator-page-text-wrapper-20 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2685px;
+  left: 1399px;
+}
+
+.creator-page-icon-plus-18 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 2693px;
+  left: 1545px;
+}
+
+.creator-page-text-wrapper-21 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2685px;
+  left: 637px;
+}
+
+.creator-page-icon-plus-19 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 2693px;
+  left: 783px;
+}
+
+.creator-page-text-wrapper-22 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 2685px;
+  left: 891px;
+}
+
+.creator-page-icon-plus-20 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 2693px;
+  left: 1037px;
+}
+
+.creator-page-text-wrapper-23 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1881px;
+  left: 1145px;
+}
+
+.creator-page-icon-plus-21 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 1889px;
+  left: 1291px;
+}
+
+.creator-page-text-wrapper-24 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1881px;
+  left: 1399px;
+}
+
+.creator-page-text-wrapper-25 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1881px;
+  left: 637px;
+}
+
+.creator-page-icon-plus-22 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 1889px;
+  left: 1545px;
+}
+
+.creator-page-icon-plus-23 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 1889px;
+  left: 783px;
+}
+
+.creator-page-text-wrapper-26 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1881px;
+  left: 891px;
+}
+
+.creator-page-icon-plus-24 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 1889px;
+  left: 1037px;
+}
+
+.creator-page-rectangle-14 {
+  cursor: pointer;
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 378px;
+  left: 110px;
+}
+
+.creator-page-rectangle-15 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 378px;
+  left: 360px;
+}
+
+.creator-page-rectangle-16 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 378px;
+  left: 610px;
+}
+
+.creator-page-rectangle-17 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 378px;
+  left: 860px;
+}
+
+.creator-page-rectangle-18 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 378px;
+  left: 1360px;
+}
+
+.creator-page-rectangle-19 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 378px;
+  left: 1110px;
+}
+
+.creator-page-text-wrapper-27 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 662px;
+  left: 383px;
+}
+
+.creator-page-icon-plus-25 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 670px;
+  left: 529px;
+}
+
+.creator-page-text-wrapper-28 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 662px;
+  left: 1145px;
+}
+
+.creator-page-icon-plus-26 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 670px;
+  left: 1291px;
+}
+
+.creator-page-text-wrapper-29 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 662px;
+  left: 1399px;
+}
+
+.creator-page-text-wrapper-30 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 662px;
+  left: 637px;
+}
+
+.creator-page-icon-plus-27 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 670px;
+  left: 783px;
+}
+
+.creator-page-text-wrapper-31 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 662px;
+  left: 891px;
+}
+
+.creator-page-icon-plus-28 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 670px;
+  left: 1037px;
+}
+
+.creator-page-rectangle-20 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 780px;
+  left: 360px;
+}
+
+.creator-page-rectangle-33 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 780px;
+  left: 610px;
+}
+
+.creator-page-rectangle-34 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 780px;
+  left: 860px;
+}
+
+.creator-page-rectangle-35 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 780px;
+  left: 1360px;
+}
+
+.creator-page-rectangle-36 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 780px;
+  left: 1110px;
+}
+
+.creator-page-text-wrapper-32 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1064px;
+  left: 129px;
+}
+
+.creator-page-icon-plus-29 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 1072px;
+  left: 275px;
+}
+
+.creator-page-text-wrapper-33 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1064px;
+  left: 383px;
+}
+
+.creator-page-icon-plus-30 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 1072px;
+  left: 529px;
+}
+
+.creator-page-text-wrapper-34 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1064px;
+  left: 1145px;
+}
+
+.creator-page-icon-plus-31 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 1072px;
+  left: 1291px;
+}
+
+.creator-page-text-wrapper-35 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1064px;
+  left: 1399px;
+}
+
+.creator-page-icon-plus-32 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 1072px;
+  left: 1545px;
+}
+
+.creator-page-text-wrapper-36 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1064px;
+  left: 637px;
+}
+
+.creator-page-icon-plus-33 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 1072px;
+  left: 783px;
+}
+
+.creator-page-text-wrapper-37 {
+  color: #000;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 1064px;
+  left: 891px;
+}
+
+.creator-page-icon-plus-34 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 1072px;
+  left: 1037px;
+}
+
+.creator-page-text-wrapper-38 {
+  color: #000;
+  cursor: pointer;
+  letter-spacing: 0;
+  text-align: center;
+  width: 111px;
+  font-family: Avenir Next-DemiBold, Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: normal;
+  position: absolute;
+  top: 662px;
+  left: 129px;
+}
+
+.creator-page-icon-plus-35 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 670px;
+  left: 275px;
+}
+
+.creator-page-icon-plus-36 {
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  top: 670px;
+  left: 1545px;
+}
+
+.creator-page-rectangle-37 {
+  height: 280px;
+  width: 200px;
+  background-color: #d9d9d9;
+  position: absolute;
+  top: 780px;
+  left: 110px;
+}
+
+.creator-page-icon-nav-arrow-down {
+  height: 8px;
+  width: 15px;
+  position: absolute;
+  top: 245px;
+  left: 1546px;
+}
+
+.creator-page-icon-nav-arrow-down-2 {
+  height: 8px;
+  width: 15px;
+  position: absolute;
+  top: 245px;
+  left: 185px;
+}
+
+.creator-page-icon-nav-arrow-down-3 {
+  height: 8px;
+  width: 15px;
+  position: absolute;
+  top: 2856px;
+  left: 884px;
+}
+
+.creator-page-icon-nav-arrow-right {
+  height: 20px;
+  width: 10px;
+  position: absolute;
+  top: 2849px;
+  left: 935px;
+}
+
+.creator-page-icon-nav-arrow-left {
+  height: 20px;
+  width: 10px;
+  position: absolute;
+  top: 2849px;
+  left: 710px;
+}
+
+/*# sourceMappingURL=index.8fbe884d.css.map */
